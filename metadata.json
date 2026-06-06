@@ -1,0 +1,8 @@
+{
+  "description": "Manual fan control for Dell laptops via dell_smm_hwmon",
+  "gettext-domain": "dell-fan-control",
+  "name": "Dell Fan Control",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "uuid": "dell-fan-control@local",
+  "version": 1
+}

@@ -1,0 +1,11 @@
+/* ─── Panel icon ─────────────────────────────────── */
+.panel-status-icon.dell-fan-icon {
+    icon-size: 16px;
+}
+
+/* ─── Quick toggle menu container ───────────────── */
+/* Matches .quick-toggle-menu native sizing */
+.quick-toggle-menu .popup-menu-item > StIcon {
+    -st-icon-style: symbolic;
+    icon-size: 1.091em;
+}
